@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/edubalzan?tab=repositories](https://github.com/edubalzan?tab=repositories)
 
-- 📫 How to reach me **eduardojbalzan@hotmail.com**
+- 📫 How to reach me **eduardo.balzan@edu.pucrs.br**
 
 ### Skills and Tools
 
