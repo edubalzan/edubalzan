@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in web and mobile development, AI and Cloud Computing
 
-- 👨‍💻 All of my projects are available at [https://github.com/ebalzan?tab=repositories](https://github.com/ebalzan?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/edubalzan?tab=repositories](https://github.com/edubalzan?tab=repositories)
 
 - 📫 How to reach me **eduardojbalzan@hotmail.com**
 
